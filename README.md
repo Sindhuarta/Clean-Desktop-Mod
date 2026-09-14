@@ -20,14 +20,14 @@ I’ve listed the exact Windhawk mods I use along with their JSON configs (from 
 
 ### 📌 Mod List
 Here are the mods I currently use:
-- **Windows 11 Taskbar Styler** - _json included_
+- **Windows 11 Taskbar Styler** - _YAML included_
 - **Windows 11 Start Menu Styler** - _will update, still making better start menu to match the taskbar_
 - **Windows 11 Notification Center Styler** - _Translucent Shell for now_
 - **Taskbar tray auto-hide (show on hover)**
-- **Taskbar height and icon size** - _json included_
+- **Taskbar height and icon size** - _YAML included_
 - **Taskbar auto-hide when maximized**
 - **Customize Windows notifications placement**
-- **Taskbar Dock Animation**
+- **Taskbar Dock Animation Plus**
 - **Taskbar auto-hide speed**
 
 > If a Windhawk mod listed here does not include a JSON configuration, that means I’m using the **default values** provided by the mod.  
